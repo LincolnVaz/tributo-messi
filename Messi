@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tributo a Lionel Messi</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            padding-top: 50px;
+        }
+        .container {
+            max-width: 800px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container text-center">
+        <h1>Tributo a Lionel Messi</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Lionel_Messi_20180626.jpg" class="img-fluid" alt="Lionel Messi">
+        <p class="mt-4">Lionel Messi é amplamente considerado um dos maiores jogadores de futebol de todos os tempos. Ele ganhou inúmeros títulos e prêmios ao longo de sua carreira.</p>
+    </div>
+</body>
+</html>
